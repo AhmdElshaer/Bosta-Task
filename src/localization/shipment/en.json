@@ -1,0 +1,23 @@
+{
+  "shipment_number": "Shipment Number",
+  "last_update": "Last update",
+  "provider": "Provider",
+  "promisedDate": "Promised Date",
+  "shipment_details": "Shipment Details",
+  "branch": "Branch",
+  "date": "Date",
+  "time": "Time",
+  "details": "Details",
+  "dropoffAddress": "Drop off Address",
+  "shipment_problems": "Any problem with your shipment?!",
+  "complain": "Report a complaint",
+  "TICKET_CREATED": "Shipment created",
+  "PACKAGE_RECEIVED": "Shipment received",
+  "OUT_FOR_DELIVERY": "Out for delivery",
+  "DELIVERED_TO_SENDER": "Delivered",
+  "DELIVERED": "Delivered",
+  "CANCELLED": "Cancelled",
+  "NOT_YET_SHIPPED": "Not shipped yet",
+  "WAITING_FOR_CUSTOMER_ACTION": "Waiting for customer action",
+  "IN_TRANSIT": "In Transit"
+}

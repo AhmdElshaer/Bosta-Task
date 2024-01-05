@@ -1,0 +1,23 @@
+{
+  "shipment_number": "رقم الشحنة",
+  "last_update": "اخر تحديث",
+  "provider": "اسم التاجر",
+  "promisedDate": "موعد التسليم خلال",
+  "shipment_details": "تفاصيل الشحنة",
+  "branch": "الفرع",
+  "date": "التاريخ",
+  "time": "الوقت",
+  "details": "تفاصيل",
+  "dropoffAddress": "عنوان التسليم",
+  "shipment_problems": "هل يوجد مشكلة في شحنتك",
+  "complain": "ابلاغ عن مشكلة",
+  "TICKET_CREATED": "تم انشاء الشحنة",
+  "PACKAGE_RECEIVED": "تم استلام الشحنة من التاجر",
+  "OUT_FOR_DELIVERY": "الشحنة خرجت للتسليم",
+  "DELIVERED_TO_SENDER": "تم التسليم",
+  "DELIVERED": "تم التسليم",
+  "CANCELLED": "تم الغاء الشحنة من التاجر",
+  "NOT_YET_SHIPPED": "لم يتم تسليم الشحنة",
+  "WAITING_FOR_CUSTOMER_ACTION": "في انتظار العميل",
+  "IN_TRANSIT": "ترانزيت"
+}
